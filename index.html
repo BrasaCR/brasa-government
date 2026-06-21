@@ -91,11 +91,8 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 }
 .site-header > * { pointer-events: auto; }
 .site-header.scrolled {
-  background: rgba(251, 249, 244, 0.86);
-  backdrop-filter: blur(14px) saturate(120%);
-  -webkit-backdrop-filter: blur(14px) saturate(120%);
+  background: rgba(251, 249, 244, 0);
   padding-top: 0.9rem; padding-bottom: 0.9rem;
-  border-bottom: 1px solid rgba(229, 223, 208, 0.5);
 }
 .wordmark {
   font-family: var(--serif); font-weight: 400;
@@ -772,14 +769,6 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 <a aria-label="BRASA CR — Governments, World Wide" class="wordmark" href="#">
 <img alt="BRASA CR" class="wordmark-img" src="https://assets.brasa.world/Photos/brasa-cr-logo_8.png"/>
 </a>
-<nav aria-label="Primary" class="nav">
-<button aria-label="Open search" class="nav-search" id="searchToggle">
-<svg fill="none" height="18" stroke="currentColor" stroke-width="1.5" viewbox="0 0 18 18" width="18">
-<circle cx="8" cy="8" r="5.5"></circle>
-<path d="M12.2 12.2L16 16"></path>
-</svg>
-</button>
-</nav>
 </header>
 <!-- HERO -->
 <section aria-labelledby="hero-identity" class="hero">
@@ -809,15 +798,15 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 </div>
 </div>
 </a>
-<a aria-current="page" class="pillar" href="#hero-identity">
+<a class="pillar" href="ledger-costa-rica.html">
 <div class="pillar-photo">
-<img alt="Earth held in a human hand at sunset — Your Government" height="900" loading="lazy" src="https://assets.brasa.world/Photos/vecteezy_ai-generated-earth-planet-in-human-hand-on-sunset-background_37814591.jpg" width="1200"/>
+<img alt="The Open Ledger — conservation, live and in public" height="900" loading="lazy" src="https://images.brasa.world/Photos/vecteezy_ai-generated-earth-globe-background-with-graph-lines-and_35845195.jpg?w=1200&amp;q=82" width="1200"/>
 </div>
 <div class="pillar-content">
 <div>
 <span class="pillar-eyebrow">Your</span>
-<div class="pillar-label">Government</div>
-<span class="pillar-arrow">You are here</span>
+<div class="pillar-label">Open Ledger</div>
+<span class="pillar-arrow">Enter →</span>
 </div>
 </div>
 </a>
@@ -1232,7 +1221,7 @@ const input = document.getElementById('searchInput');
 
 const openSearch = () => { loadManifest(); overlay.classList.add('is-open'); setTimeout(() => input.focus(), 100); };
 const closeSearch = () => { overlay.classList.remove('is-open'); input.value = ''; renderResults(''); };
-toggle.addEventListener('click', openSearch);
+if (toggle) toggle.addEventListener('click', openSearch);
 close.addEventListener('click', closeSearch);
 document.addEventListener('keydown', (e) => {
   if (e.key === 'Escape' && overlay.classList.contains('is-open')) closeSearch();
