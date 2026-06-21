@@ -752,16 +752,59 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 }
 
 /* “Where to begin” + “Current Solution Projects” — restore brasa.world full-bleed photo tiles (override the gov logo-card .feature rules) */
-#where-to-begin .feature, #featured .feature { background: var(--brasa-black); }
-#where-to-begin .feature-photo, #featured .feature-photo { padding: 0; background: var(--brasa-black); }
-#where-to-begin .feature-photo::after, #featured .feature-photo::after {
+#where-to-begin .feature, #featured .feature, #platform-architecture .feature { background: var(--brasa-black); }
+#where-to-begin .feature-photo, #featured .feature-photo, #platform-architecture .feature-photo { padding: 0; background: var(--brasa-black); }
+#where-to-begin .feature-photo::after, #featured .feature-photo::after, #platform-architecture .feature-photo::after {
   display: block; content: ''; position: absolute; inset: 0;
   background: linear-gradient(180deg, rgba(27,26,23,0) 35%, rgba(27,26,23,0.7) 100%); z-index: 2;
 }
-#where-to-begin .feature-photo img, #featured .feature-photo img { object-fit: cover; filter: saturate(0.92) contrast(1.02); }
-#where-to-begin .feature-content, #featured .feature-content { color: var(--brasa-cream); }
-#where-to-begin .feature-eyebrow, #featured .feature-eyebrow { color: rgba(245,240,229,0.78); }
-#where-to-begin .feature-label, #featured .feature-label { color: var(--brasa-cream); }</style>
+#where-to-begin .feature-photo img, #featured .feature-photo img, #platform-architecture .feature-photo img { object-fit: cover; filter: saturate(0.92) contrast(1.02); }
+#where-to-begin .feature-content, #featured .feature-content, #platform-architecture .feature-content { color: var(--brasa-cream); }
+#where-to-begin .feature-eyebrow, #featured .feature-eyebrow, #platform-architecture .feature-eyebrow { color: rgba(245,240,229,0.78); }
+#where-to-begin .feature-label, #featured .feature-label, #platform-architecture .feature-label { color: var(--brasa-cream); }
+
+/* ── Platform monitoring · native tile build of the architecture map ── */
+.pm { margin-top: clamp(1.5rem, 3vh, 2.5rem); display: flex; flex-direction: column; gap: clamp(1rem, 2.4vh, 1.85rem); }
+
+.pm-doctrine { display: flex; flex-wrap: wrap; gap: 0.6rem; }
+.pm-doctrine span {
+  font-family: var(--sans); font-size: 0.78rem; font-weight: 500; letter-spacing: 0.04em;
+  color: var(--brasa-black); background: var(--brasa-callout);
+  border: 1px solid var(--brasa-rule); border-radius: 999px; padding: 0.5rem 1.05rem;
+}
+.pm-doctrine span::before { content: '·'; color: var(--brasa-accent); margin-right: 0.5rem; font-weight: 700; }
+
+.pm-card { background: #fff; border: 1px solid var(--brasa-rule); border-radius: 14px; padding: clamp(1.15rem, 2vw, 1.6rem); }
+.pm-kicker { font-family: var(--sans); font-size: 0.68rem; font-weight: 600; letter-spacing: 0.2em; text-transform: uppercase; color: var(--brasa-accent); margin-bottom: 0.6rem; }
+.pm-runon { font-family: var(--sans); font-size: 0.85rem; line-height: 1.7; color: var(--brasa-soft); }
+
+.pm-pipe { display: flex; flex-wrap: wrap; align-items: stretch; gap: 0.6rem; }
+.pm-step { flex: 1 1 220px; background: var(--brasa-callout); border: 1px solid var(--brasa-rule); border-radius: 14px; padding: 1.1rem 1.25rem; }
+.pm-step-t { font-family: var(--serif); font-weight: 400; font-size: 1.2rem; color: var(--brasa-black); margin-bottom: 0.4rem; font-variation-settings: "opsz" 72, "SOFT" 40; }
+.pm-step-d { font-family: var(--sans); font-size: 0.78rem; line-height: 1.5; color: var(--brasa-soft); }
+.pm-pipe-arrow { align-self: center; color: var(--brasa-accent); font-weight: 700; font-size: 1.1rem; }
+@media (max-width: 760px) { .pm-pipe-arrow { transform: rotate(90deg); align-self: center; } }
+
+.pm-subhead { font-family: var(--sans); font-size: 0.72rem; font-weight: 600; letter-spacing: 0.2em; text-transform: uppercase; color: var(--brasa-accent); margin: 0.4rem 0 0; padding-bottom: 0.75rem; border-bottom: 1px solid var(--brasa-rule); }
+.pm-layers { display: flex; flex-direction: column; gap: clamp(0.75rem, 1.5vw, 1.1rem); }
+.pm-layer { background: #fff; border: 1px solid var(--brasa-rule); border-radius: 14px; padding: clamp(1.2rem, 2vw, 1.6rem); display: grid; grid-template-columns: 230px 1fr; gap: clamp(1rem, 2.5vw, 2rem); align-items: start; }
+@media (max-width: 680px) { .pm-layer { grid-template-columns: 1fr; gap: 0.9rem; } }
+.pm-layer-head { display: flex; align-items: baseline; gap: 0.75rem; }
+.pm-layer-num { font-family: var(--serif); font-weight: 350; font-size: clamp(1.9rem, 2.6vw, 2.5rem); line-height: 1; color: var(--brasa-accent); font-variation-settings: "opsz" 144, "SOFT" 60; }
+.pm-layer-titles { display: flex; flex-direction: column; gap: 0.18rem; }
+.pm-layer-title { font-family: var(--serif); font-weight: 400; font-size: clamp(1.1rem, 1.7vw, 1.4rem); line-height: 1.12; letter-spacing: -0.01em; color: var(--brasa-black); font-variation-settings: "opsz" 72, "SOFT" 40; }
+.pm-layer-sub { font-family: var(--sans); font-size: 0.64rem; font-weight: 600; letter-spacing: 0.16em; text-transform: uppercase; color: var(--brasa-soft); }
+.pm-chips { display: flex; flex-wrap: wrap; gap: 0.45rem; }
+.pm-chip { font-family: var(--sans); font-size: 0.78rem; font-weight: 500; color: var(--brasa-black); background: var(--brasa-callout); border: 1px solid var(--brasa-rule); border-radius: 8px; padding: 0.38rem 0.7rem; }
+
+.pm-flow { font-family: var(--sans); font-size: 0.88rem; line-height: 1.9; color: var(--brasa-black); }
+.pm-flow b { font-weight: 600; }
+.pm-flow .pm-arrow { color: var(--brasa-accent); font-weight: 700; margin: 0 0.4rem; }
+.pm-muted { color: var(--brasa-soft); }
+.pm-citizen { color: var(--brasa-accent); font-weight: 600; }
+
+.pm-edge { font-family: var(--sans); font-size: 0.78rem; letter-spacing: 0.02em; color: var(--brasa-soft); }
+.pm-edge b { color: var(--brasa-black); font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; font-size: 0.68rem; margin-right: 0.5rem; }</style>
 </head>
 <body>
 <!-- HEADER -->
@@ -836,6 +879,62 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 </a>
 </div>
 </div>
+</section>
+<!-- ──────────────────────────────────────────────────────────────────────
+     PLATFORM ARCHITECTURE · single map tile · between the pillars and "where to begin"
+     ────────────────────────────────────────────────────────────────────── -->
+<section class="section" id="platform-architecture" aria-labelledby="platform-h">
+  <div class="container">
+    <div class="reveal">
+      <p class="eyebrow">One platform · ~40 monitoring domains</p>
+      <h2 class="section-h" id="platform-h">The planetary monitoring platform.</h2>
+    </div>
+
+    <div class="pm reveal">
+
+      <p class="pm-subhead">What the platform watches — the monitoring layers</p>
+
+      <div class="featured-grid reveal">
+        <a href="global-hazards.html" class="feature">
+          <div class="feature-photo"><img src="https://assets.brasa.world/Photos/global-hazards-hero.jpg" alt="Global Hazards" loading="lazy" width="900" height="600"></div>
+          <div class="feature-content"><span class="feature-eyebrow">Deep Dive</span><div class="feature-label">Global Hazards</div></div>
+        </a>
+        <a href="global-stewardship.html" class="feature">
+          <div class="feature-photo"><img src="https://assets.brasa.world/Photos/global-stewardship-hero.jpg" alt="Global Stewardship" loading="lazy" width="900" height="600"></div>
+          <div class="feature-content"><span class="feature-eyebrow">Expansion</span><div class="feature-label">Global Stewardship</div></div>
+        </a>
+        <a href="global-infrastructure.html" class="feature">
+          <div class="feature-photo"><img src="https://assets.brasa.world/Photos/global-infrastructure-hero.jpg" alt="Global Infrastructure" loading="lazy" width="900" height="600"></div>
+          <div class="feature-content"><span class="feature-eyebrow">Infrastructure + Financial</span><div class="feature-label">Global Infrastructure</div></div>
+        </a>
+        <a href="global-health.html" class="feature">
+          <div class="feature-photo"><img src="https://assets.brasa.world/Photos/global-health-hero.jpg" alt="Global Health" loading="lazy" width="900" height="600"></div>
+          <div class="feature-content"><span class="feature-eyebrow">The Public Health Watch</span><div class="feature-label">Global Health</div></div>
+        </a>
+        <a href="global-wellbeing.html" class="feature">
+          <div class="feature-photo"><img src="https://assets.brasa.world/Photos/global-wellbeing-hero.jpg" alt="Global Wellbeing" loading="lazy" width="900" height="600"></div>
+          <div class="feature-content"><span class="feature-eyebrow">State of the Nation</span><div class="feature-label">Global Wellbeing</div></div>
+        </a>
+        <a href="technology-for-citizens.html" class="feature">
+          <div class="feature-photo"><img src="https://assets.brasa.world/Photos/technology-for-citizens.jpg" alt="Technology for Citizens" loading="lazy" width="900" height="600"></div>
+          <div class="feature-content"><span class="feature-eyebrow">Technology</span><div class="feature-label">Technology for Citizens</div></div>
+        </a>
+        <a href="philanthropy-for-citizens.html" class="feature">
+          <div class="feature-photo"><img src="https://images.brasa.world/Photos/vecteezy_health-care-health-insurance-charity-and-medicine-concept_3667146.jpg?w=900&q=82" alt="Philanthropy — the infrastructure of giving" loading="lazy" width="900" height="600"></div>
+          <div class="feature-content"><span class="feature-eyebrow">Philanthropy</span><div class="feature-label">The infrastructure of giving.</div></div>
+        </a>
+        <a href="campuses-for-citizens.html" class="feature">
+          <div class="feature-photo"><img src="https://images.brasa.world/Photos/vecteezy_modern-container-hotel-resort-embracing-sustainable_69725110.jpeg?w=900&q=82" alt="Campuses — the ABC system" loading="lazy" width="900" height="600"></div>
+          <div class="feature-content"><span class="feature-eyebrow">Campuses</span><div class="feature-label">The ABC system. Costa Rica to the world.</div></div>
+        </a>
+        <a href="structure-for-citizens.html" class="feature">
+          <div class="feature-photo"><img src="https://images.brasa.world/Photos/vecteezy_global-network-connections-connecting-the-world-s-continents_76900399.jpeg?w=900&q=82" alt="Structure — constitutional architecture end to end" loading="lazy" width="900" height="600"></div>
+          <div class="feature-content"><span class="feature-eyebrow">Structure</span><div class="feature-label">Constitutional architecture, end to end.</div></div>
+        </a>
+      </div>
+
+    </div>
+  </div>
 </section>
 <!-- ──────────────────────────────────────────────────────────────────────
      WHERE TO BEGIN · Six entry tiles · carried over from brasa.world
@@ -942,7 +1041,7 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 
       <a href="homes-for-citizens.html" class="feature">
         <div class="feature-photo">
-          <img src="https://images.brasa.world/Photos/vecteezy_modern-sustainable-tiny-home-with-solar-panels_56499173.jpg?w=900&q=82"
+          <img src="https://assets.brasa.world/Photos/global-hazards-hero.jpg"
                alt="BRASA Homes — fourth pillar housing distribution" loading="lazy" width="900" height="600">
         </div>
         <div class="feature-content">
@@ -953,7 +1052,7 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 
       <a href="foods-for-citizens.html" class="feature">
         <div class="feature-photo">
-          <img src="https://images.brasa.world/Photos/vecteezy_ai-generated-attractive-food-images_40171034.jpg?w=900&q=82"
+          <img src="https://assets.brasa.world/Photos/global-stewardship-hero.jpg"
                alt="BRASA Foods — fourth pillar food distribution" loading="lazy" width="900" height="600">
         </div>
         <div class="feature-content">
@@ -964,7 +1063,7 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 
       <a href="water-for-citizens.html" class="feature">
         <div class="feature-photo">
-          <img src="https://assets.brasa.world/Photos/water-for-citizens.jpg"
+          <img src="https://assets.brasa.world/Photos/global-infrastructure-hero.jpg"
                alt="BRASA Water — clean water for citizens" loading="lazy" width="900" height="600">
         </div>
         <div class="feature-content">
@@ -975,7 +1074,7 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 
       <a href="medicine-for-citizens.html" class="feature">
         <div class="feature-photo">
-          <img src="https://assets.brasa.world/Photos/medicine-for-citizens.jpg"
+          <img src="https://assets.brasa.world/Photos/global-health-hero.jpg"
                alt="BRASA Medicine — health and medicine for citizens" loading="lazy" width="900" height="600">
         </div>
         <div class="feature-content">
@@ -986,7 +1085,7 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 
       <a href="energy-for-citizens.html" class="feature">
         <div class="feature-photo">
-          <img src="https://assets.brasa.world/Photos/energy-for-citizens.jpg"
+          <img src="https://assets.brasa.world/Photos/global-wellbeing-hero.jpg"
                alt="BRASA Energy — clean energy for citizens" loading="lazy" width="900" height="600">
         </div>
         <div class="feature-content">
