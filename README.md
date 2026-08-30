@@ -448,4 +448,111 @@ Chính phủ được xây dựng trên **21 Quyền Toàn cầu** — được 
 *BRASA 시스템의 일부 — 교육 · 정부 · 기업 · 공개 장부*
 *전 세계 시민의 공유 재산 — 코스타리카에서 정성껏 제작 · 2026*
 
+# ⚖️ BRASA — सरकार
+> तुमचे हक्क. तुमचा आवाज. स्पष्टपणे लिहिलेले आणि संरक्षित.
+
+🌐 **BRASA विश्वाचा भाग:** [brasa.world](https://brasa.world)
+
+---
+
+## BRASA सरकारबद्दल
+**२१ मूलभूत हक्कांवर** उभारलेली प्रणाली — स्पष्ट शब्दांत, सर्वांसमोर. लपविलेले नियम नाही, गुप्त निर्णय नाही. ही प्रणाली लोकांची सेवा करण्यासाठी बनली आहे, सत्तेसाठी नाही.
+
+## येथे तुम्ही काय करू शकता
+- 📜 **२१ हक्क आणि संविधान** वाचा आणि समजा
+- 🛡️ तुमचे हक्क जाणून घ्या — स्पष्ट लिखित आणि संरक्षित
+- 🤝 लोकशाही प्रक्रियेत सहभागी व्हा
+- 📖 निर्णय कसे घेतले जातात — सर्व काही उघडे आहे
+
+## BRASA मूल्ये
+- 📜 **२१ हक्क आणि संविधान** — तुमचे स्वातंत्र्य सुरक्षित
+- 💰 **नागरिकांसाठी विनामूल्य** — सार्वजनिक सेवा सर्वांसाठी
+- 🔍 **नेहमी पारदर्शक** — काहीही लपविले जात नाही
+- 🗣️ **७,१०० हून अधिक भाषा** — तुमचे हक्क तुमच्या भाषेत
+- 🤝 **लोकांच्या मालकीचे** — लोकांचे, लोकांसाठी
+
+---
+*BRASA प्रणालीचा भाग — शिक्षण · सरकार · व्यवसाय · खुली नोंदणी*
+*जगातील नागरिकांच्या मालकीचे · कोस्टा रिका येथे प्रेमाने तयार केले · २०२६*
+
+# ⚖️ BRASA — Serikali
+> Haki zako. Sauti yako. Imeandikwa wazi na inalindwa.
+
+🌐 **Sehemu ya BRASA Ulimwengu:** [brasa.world](https://brasa.world)
+
+---
+
+## Kuhusu Serikali ya BRASA
+Imejengwa juu ya **Haki 21 za msingi** — wazi kwa kila mtu, rahisi kuelewa. Hakuna sheria ya siri, hakuna uamuzi wa siri. Iko kwa ajili ya kuwahudumia watu, sio kwa ajili ya mamlaka.
+
+## Unachoweza Kufanya Hapa
+- 📜 Soma na uelewe **Haki 21 na Kanuni ya Msingi**
+- 🛡️ Jua haki zako — zimeandikwa wazi na zinalindwa
+- 🤝 Shiriki katika utawala wa watu
+- 📖 Tazama jinsi maamuzi yanavyofanyika — yuko wazi kabisa
+
+## Maadili ya BRASA
+- 📜 **Haki 21 na Kanuni ya Msingi** — Uhuru wako umehakikishiwa
+- 💰 **BILA MALIPO kwa kila raia** — Huduma kwa umma kwa kila mtu
+- 🔍 **Uwazi wakati wote** — Hakuna kilichofichwa
+- 🗣️ **Zaidi ya lugha 7,100** — Haki zako kwa lugha yako mwenyewe
+- 🤝 **Ya watu** — Kwa watu, kwa watu
+
+---
+*Sehemu ya Mfumo wa BRASA — Elimu · Serikali · Biashara · Rejesta ya Wazi*
+*Inamilikiwa na raia wa ulimwengu — Imetengenezwa kwa upendo huko Kosta Rika · 2026*
+
+# ⚖️ BRASA — Mulki
+> Haƙƙinka. Muryarka. An rubuta a fili kuma ana kiyaye shi.
+
+🌐 **Wuri daga Tsarin BRASA:** [brasa.world](https://brasa.world)
+
+---
+
+> Game da Mulkin BRASA
+An gina shi bisa **Haƙƙoƙi 21 na asali** — a fili ga kowa, bayyananne. Babu dokar ɓoye, babu yanke shawara a ɓoye. Wannan tsari domin yiwa jama'a hidima ne, ba domin mulki ba.
+
+> Abinda za ka iya yi a nan
+- 📜 Karanta kuma fahimta **Haƙƙoƙi 21 da Kundin Tsari**
+- 🛡️ San haƙƙinka — An rubuta a fili kuma ana kiyaye su
+- 🤝 Shiga cikin tsarin mulkin jama'a
+- 📖 Duba yanke shawara yadda ake yi — duk a fili take
+
+> Dabi'un BRASA
+- 📜 **Haƙƙoƙi 21 da Kundin Tsari** — 'Yancinka a tsare take
+- 💰 **Kyau ga kowane ɗan ƙasa** — Hidimar jama'a ga kowa
+- 🔍 **Buɗe a kowane lokaci** — Babu abin ɓoye
+- 🗣️ **Fiye da Yare 7,100** — Haƙƙoƙinka a yarenka
+- 🤝 **Na Jama'a** — Na jama'a, domin jama'a
+
+---
+*Wuri daga Tsarin BRASA — Ilimi · Mulki · Kasuwanci · Rijista a Buɗe*
+*Na ɗan ƙasa na duniya — Anyi da ƙauna a Costa Rica · 2026*
+
+# ⚖️ BRASA — حکومت
+> حقوق شما. صدای شما. نوشته شده و محفوظ است.
+
+🌐 **بخشی از جهان BRASA:** [brasa.world](https://brasa.world)
+
+---
+
+## درباره حکومت BRASA
+بر پایه **۲۱ حق بنیادین** بنا شده — واضح و آشکار برای همه. قانون پنهان، تصمیم پنهان وجود ندارد. این سیستم برای خدمت به مردم است، نه برای قدرت.
+
+## در اینجا چه می‌توانید بکنید
+- 📜 **۲۱ حق و قانون اساسی** را بخوانید و بدانید
+- 🛡️ حقوق خود را بشناسید — نوشته شده و محفوظ
+- 🤝 در اداره امور مشارکت کنید
+- 📖 ببینید تصمیمات چگونه گرفته می‌شوند — همه چیز آشکار است
+
+## ارزش‌های BRASA
+- 📜 **۲۱ حق و قانون اساسی** — آزادی‌های شما محفوظ
+- 💰 **رایگان برای همگان** — خدمات عمومی برای همه
+- 🔍 **همیشه شفاف** — چیزی پنهان نیست
+- 🗣️ **بیش از ۷٬۱۰۰ زبان** — حقوق شما به زبان خودتان
+- 🤝 **متعلق به مردم** — از مردم، برای مردم
+
+---
+*بخشی از سیستم BRASA — آموزش · حکومت · کسب‌وکار · دفتر کل باز*
+*متعلق به شهروندان جهان — ساخته شده با محبت در کاستاریکا · ۲۰۲۶*
 
