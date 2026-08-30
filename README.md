@@ -335,3 +335,117 @@ Tata kelola yang dibangun di atas **21 Hak Universal** — dirumuskan dengan jel
 *BRASA システムの一部 — 教育・統治・事業・公開台帳*
 *世界中の市民の共有財産 — コスタリカより心を込めて · 2026*
 
+# ⚖️ BRASA — حکومت
+> آپ کے حقوق۔ آپ کی آواز۔ واضح طور پر تحریر اور تحفظ یافتہ۔
+
+🌐 **BRASA دنیا کا حصہ:** [brasa.world](https://brasa.world)
+
+---
+
+## BRASA حکومت کے بارے میں
+**21 بنیادی حقوق** پر قائم نظام — واضح الفاظ میں، سب کے سامنے۔ کوئی پوشیدہ اصول نہیں، کوئی خفیہ فیصلہ نہیں۔ یہ نظام عوام کی خدمت کے لیے بنایا گیا ہے، نہ کہ اقتدار کے لیے۔
+
+## آپ یہاں کیا کر سکتے ہیں
+- 📜 **21 حقوق اور آئین** پڑھیں اور سمجھیں
+- 🛡️ اپنے حقوق جانیں — واضح طور پر تحریر اور تحفظ یافتہ
+- 🤝 عوامی نظام میں حصہ لیں
+- 📖 فیصلے کس طرح ہوتے ہیں — مکمل طور پر کھلا
+
+## BRASA کی اقدار
+- 📜 **21 حقوق اور آئین** — آپ کی آزادیاں محفوظ
+- 💰 **شہریوں کے لیے مفت** — عوامی خدمت سب کے لیے
+- 🔍 **ہر وقت شفاف** — کچھ بھی پوشیدہ نہیں
+- 🗣️ **7,100 سے زیادہ زبانیں** — آپ کے حقوق آپ کی زبان میں
+- 🤝 **عوام کی ملکیت** — عوام کی، عوام کے لیے
+
+---
+
+*BRASA نظام کا حصہ — تعلیم · حکومت · کاروبار · کھلا رجسٹر*
+*دنیا کے شہریوں کی ملکیت · کوسٹا ریکا میں محبت سے بنایا گیا · 2026*
+
+# ⚖️ BRASA — Chính phủ
+> Quyền của bạn. Lời nói của bạn. Được ghi rõ và bảo vệ.
+
+🌐 **Là một phần của Thế giới BRASA:** [brasa.world](https://brasa.world)
+
+---
+
+## Về Chính phủ BRASA
+Chính phủ được xây dựng trên **21 Quyền Toàn cầu** — được nêu rõ bằng văn bản, mở cho mọi người. Không quy tắc bí mật, không quyết định kín. Hệ thống này tồn tại để phục vụ nhân dân, chứ không phải quyền lực.
+
+## Bạn có thể làm gì tại đây
+- 📜 Đọc và hiểu **21 Quyền & Hiến pháp**
+- 🛡️ Biết các quyền của bạn — được quy định rõ ràng và được bảo vệ
+- 🤝 Tham gia quản trị của nhân dân
+- 📖 Xem cách quyết định được đưa ra — hoàn toàn mở
+
+## Giá trị cốt lõi BRASA
+- 📜 **21 Quyền & Hiến pháp** — Tự do của bạn được đảm bảo
+- 💰 **Miễn phí cho công dân** — Dịch vụ công cho tất cả
+- 🔍 **Minh bạch 24/7** — Không gì được che giấu
+- 🗣️ **Hơn 7.100 ngôn ngữ** — Quyền của bạn bằng ngôn ngữ của bạn
+- 🤝 **Thuộc về nhân dân** — Từ nhân dân, vì nhân dân
+
+---
+
+*Là một phần Hệ thống BRASA — Giáo dục · Chính phủ · Kinh doanh · Sổ Mở*
+*Thuộc về công dân toàn cầu · Được tạo tác với tình yêu tại Costa Rica · 2026*
+
+
+# ⚖️ BRASA — Yönetim
+> Haklarınız. Sözünüz. Açıkça yazılı ve güvence altında.
+
+🌐 **BRASA Dünya'nın bir parçası:** [brasa.world](https://brasa.world)
+
+---
+
+## BRASA Yönetim Hakkında
+**21 Evrensel Hak** üzerine kurulu yönetim sistemi — açık ve anlaşılır. Gizli kural yok, gizli karar yok. Bu sistem iktidara değil, halka hizmet için vardır.
+
+## Burada Neler Yapabilirsiniz
+- 📜 **21 Hak ve Anayasa'yı** okuyun ve anlayın
+- 🛡️ Haklarınızı bilin — açıkça tanımlı ve güvence altında
+- 🤝 Halkın yönetimine katılın
+- 📖 Kararlar nasıl alınıyor — tamamen açık görün
+
+## BRASA Değerleri
+- 📜 **21 Hak ve Anayasa** — Özgürlükleriniz güvence altında
+- 💰 **Vatandaşlar için ücretsiz** — Kamu hizmeti herkes için
+- 🔍 **7/24 Şeffaflık** — Hiçbir şey gizli değil
+- 🗣️ **7.100'den Fazla Dil** — Haklarınız kendi dilinizde
+- 🤝 **Halkın malıdır** — Halktan, halk için
+
+---
+
+*BRASA Sisteminin bir parçası — Eğitim · Yönetim · İş Dünyası · Açık Defter*
+*Dünya Vatandaşlarının Mülkiyeti · Kosta Rika'da Sevgiyle Üretilmiştir · 2026*
+
+# ⚖️ BRASA — 정부
+> 당신의 권리. 당신의 목소리. 명확히 기록되고 보호받습니다.
+
+🌐 **BRASA 세계의 일부:** [brasa.world](https://brasa.world)
+
+---
+
+## BRASA 정부에 관하여
+**21가지 보편적 권리**를 기반으로 한 통치 체계 — 명확한 문서로, 모두에게 공개됩니다. 숨겨진 규칙도, 비공개 결정도 없습니다. 이 체계는 권력을 위해 존재하는 것이 아니라, 시민을 위해 존재합니다.
+
+## 여기서 할 수 있는 일
+- 📜 **21가지 권리와 헌법**을 읽고 이해하세요
+- 🛡️ 자신의 권리를 아세요 — 명확히 규정되고 보호받습니다
+- 🤝 시민 참여를 통해 함께 참여하세요
+- 📖 의사결정 과정을 확인하세요 — 모두 공개됩니다
+
+## BRASA의 가치
+- 📜 **21가지 권리와 헌법** — 당신의 자유가 보장됨
+- 💰 **시민에게 무료** — 공공 서비스는 모두의 것
+- 🔍 **24시간 투명성** — 숨겨진 내용은 없음
+- 🗣️ **7,100개 이상의 언어** — 권리를 당신의 언어로
+- 🤝 **시민의 것** — 시민으로부터, 시민을 위해
+
+---
+
+*BRASA 시스템의 일부 — 교육 · 정부 · 기업 · 공개 장부*
+*전 세계 시민의 공유 재산 — 코스타리카에서 정성껏 제작 · 2026*
+
+
