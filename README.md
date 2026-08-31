@@ -771,3 +771,57 @@ System zbudowany na **21 Prawach Podstawowych** — jasny dla wszystkich, zrozum
 ---
 *BRASAစနစ်၏အစိတ်အပိုင်း — ပညာရေး · အစိုးရ · စီးပွားရေး · ပွင့်လင်းမှတ်တမ်း*
 *ကမ္ဘာ့နိုင်ငံသားများပိုင် · ကော်စတာရီကာတွင်မေတ္တာဖြင့်တည်ဆောက်သည် · 2026*
+
+# ⚖️ BRASA — Overheid
+> Uw Rechten. Uw Stem. Duidelijk Geschreven en Beschermd.
+
+🌐 **Onderdeel van BRASA Wereld:** [brasa.world](https://brasa.world)
+
+---
+
+## Over BRASA Overheid
+Een systeem gebouwd op **21 Universele Rechten** — duidelijk voor iedereen. Geen geheime regels, geen verborgen besluiten. Bestaat om het volk te dienen, niet om macht.
+
+## Wat U Hier Kunt Doen
+- 📜 **Lees en Begrijp de 21 Rechten en de Grondwet**
+- 🛡️ Ken uw rechten — duidelijk opgeschreven en beschermd
+- 🤝 Neem deel aan burgerbestuur
+- 📖 Zie hoe besluiten worden genomen — alles is openbaar
+
+## BRASA Waarden
+- 📜 **21 Rechten & Grondwet** — Uw vrijheid is gegarandeerd
+- 💰 **Gratis voor Burgers** — Openbare diensten voor iedereen
+- 🔍 **Altijd Transparant** — Niets wordt verborgen
+- 🗣️ **Meer dan 7.100 Talen** — Uw rechten in uw eigen taal
+- 🤝 **Eigendom van het Volk** — Van het volk, voor het volk
+
+---
+*Onderdeel van het BRASA Systeem — Onderwijs · Overheid · Bedrijfsleven · Open Grootboek*
+*Eigendom van Wereldburgers — Met liefde gebouwd in Costa Rica · 2026*
+
+# ⚖️ BRASA — 政府
+> 您的權利。您的聲音。明白書寫 · 確實保障。
+
+🌐 **BRASA 世界之一部分：** [brasa.world](https://brasa.world)
+
+---
+
+## 關於 BRASA 政府
+以 **21 項基本權利** 為基礎建立的體系 — 人人清楚明白。沒有祕密法規、沒有祕密決策。一切為服務人民，而非鞏固權力。
+
+## 您可以在這裡做什麼
+- 📜 **閱讀並瞭解 21 項權利與憲法**
+- 🛡️ 清楚知曉您的權利 — 明白書寫 · 受憲法保障
+- 🤝 共同參與公民治理
+- 📖 決策過程全部公開 · 人人可檢視
+
+## BRASA 的價值
+- 📜 **21 項權利與憲法** — 您的自由有憲法保障
+- 💰 **對公民免費** — 公共服務全民共享
+- 🔍 **永遠公開透明** — 沒有任何隱瞞
+- 🗣️ **7,100+ 種語言** — 以您的母語告知您的權利
+- 🤝 **全民共有** — 來自人民、為了人民
+
+---
+*BRASA 體系之一部分 — 教育 · 政府 · 商業 · 公開帳本*
+*全世界公民共同擁有 · 2026 年於哥斯大黎加用心打造*
