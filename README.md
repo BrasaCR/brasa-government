@@ -1218,6 +1218,7 @@ Uhlelo olwakhelwe phezu kwamaLungelo angama-21 Omhlaba Wonke — Okusobala kuwo 
 - 🤮 Bamba iqhaza ekubuseni kwesakhamuzi
 - 📖 Bona ukuthi zithathwa kanjani izinqumo — Konke kusobala emphakathini
 
+
 ## Izimiso ze-BRASA
 - 📜 **Amalungelo angama-21 kanye noMthethosisekelo** — Inkululeko yakho iqinisekisiwe
 - 💰 **Imahhala eSakhamuzini** — Izinsiza zomphakathi zawo wonke umuntu
@@ -1228,4 +1229,193 @@ Uhlelo olwakhelwe phezu kwamaLungelo angama-21 Omhlaba Wonke — Okusobala kuwo 
 ---
 *Ingxenye yeSistemu ye-BRASA — Imfundo · Uhulumeni · Amabhizinisi · Incwadi Evulekile*
 *IngabeyeSakhamuzi Somhlaba Wonke — Yakhiwe ngothando eKosta Rika · 2026*
+
+# ⚖️ BRASA — Država
+> Vaša Prava. Vaš Glas. Jasno Napisano i Zaštićeno.
+
+🌐 **Deo BRASA Sveta:** [brasa.world](https://brasa.world)
+
+---
+
+## O Državi BRASA
+Sistem izgrađen na **21 Univerzalno Prava** — Jasno za sve. Bez skrivenih pravila, bez tajnih odluka. Postoji da služi narodu, ne za moć.
+
+## Šta Možete Učiniti
+- 📜 **Pročitajte i Razumite 21 Prava i Ustav**
+- 🛡️ Upoznajte svoja prava — Jasno napisana i zagarantovana
+- 🤮 Učestvujte u građanskoj upravi
+- 📖 Vidite kako se donose odluke — Sve je javno
+
+## Vrednosti BRASA
+- 📜 **21 Prava i Ustav** — Vaša sloboda je zagarantovana
+- 💰 Besplatno za Građane — Javne usluge za sve
+- 🔍 Uvek Transparentno — Ništa nije skriveno
+- 🗣️ **Više od 7.100 Jezika** — Vaša prava na vašem jeziku
+- 🤝 **U Vlasništvu Naroda** — Od naroda, za narod
+
+---
+*Deo Sistema BRASA — Obrazovanje · Država · Poslovanje · Otvorena Knjiga*
+*U vlasništvu Građana Sveta — Izgrađeno s ljubavlju u Kostarici · 2026*
+
+# ⚖️ BRASA — Държава
+> Вашите Права. Вашият Глас. Ясно Написани и Защитени.
+
+🌐 **Част от BRASA Свят:** [brasa.world](https://brasa.world)
+
+---
+
+## За Държавата на BRASA
+Система, изградена върху **21 Универсални Права** — Ясно за всички. Без скрити правила, без тайни решения. Съществува, за да служи на народа, не за власт.
+
+## Какво Можете Да Правите
+- 📜 **Прочетете и Разберете 21 Права и Конституцията**
+- 🛡️ Познавайте вашите права — Ясно написани и гарантирани
+- 🤮 Участвайте в гражданското управление
+- 📖 Вижте как се вземат решения — Всичко е публично
+
+## Ценностите на BRASA
+- 📜 **21 Права и Конституция** — Вашата свобода е гарантирана
+- 💰 Безплатно за Гражданите — Публични услуги за всички
+- 🔍 Винаги Прозрачно — Нищо не е скрито
+- 🗣️ **Над 7.100 Езика** — Вашите права на вашия език
+- 🤝 **Собственост на Народа** — От народа, за народа
+
+---
+*Част от Системата на BRASA — Образование · Държава · Бизнес · Отворена Книга*
+*Собственост на Гражданите на Света — Изградено с любов в Коста Рика · 2026*
+
+# ⚖️ BRASA — Styresett
+> Dine Rettigheter. Din Stemme. Tydelig Skrevet og Beskyttet.
+
+🌐 **Del av BRASA Verden:** [brasa.world](https://brasa.world)
+
+---
+
+## Om BRASA Styresett
+Et system bygget på **21 Universelle Rettigheter** — Tydelig for alle. Ingen skjulte regler, ingen hemmelige avgjørelser. Eksisterer for å tjene folket, ikke for makt.
+
+## Hva Du Kan Gjøre
+- 📜 **Les og Forstå 21 Rettigheter og Grunnloven**
+- 🛡️ Kjenn dine rettigheter — Tydelig skrevet og garantert
+- 🤮 Delta i borgerstyring
+- 📖 Se hvordan avgjørelser tas — Alt er offentlig
+
+## BRASAs Verdier
+- 📜 **21 Rettigheter og Grunnlov** — Din frihet er garantert
+- 💰 Gratis for Borgerne — Offentlige tjenester for alle
+- 🔍 Alltid Gjennomsiktig — Ingen ting skjult
+- 🗣️ **Over 7.100 Språk** — Dine rettigheter på ditt språk
+- 🤝 **Eiet av Folket** — Av folket, for folket
+
+---
+*Del av Systemet BRASA — Utdanning · Styresett · Næringsliv · Åpen Bok*
+*Eiet av Verdens Borgere — Bygget med kjærlighet på Costa Rica · 2026*
+
+# ⚖️ BRASA — Styre
+> Dine Rettigheder. Din Stemme. Tydeligt Skrevet og Beskyttet.
+
+🌐 **Del af BRASA Verden:** [brasa.world](https://brasa.world)
+
+---
+
+## Om BRASA Styre
+Et system bygget på **21 Universelle Rettigheder** — Tydeligt for alle. Ingen skjulte regler, ingen hemmelige beslutninger. Eksisterer for at tjene folket, ikke for magt.
+
+## Hvad Du Kan Gøre
+- 📜 **Læs og Forstå 21 Rettigheder og Grundloven**
+- 🛡️ Kend dine rettigheder — Tydeligt skrevet og garanteret
+- 🤮 Deltag i borgerstyring
+- 📖 Se hvordan beslutninger træffes — Alt er offentligt
+
+## BRASAs Værdier
+- 📜 **21 Rettigheder og Grundlov** — Din frihed er garanteret
+- 💰 Gratis for Borgerne — Offentlige tjenester for alle
+- 🔍 Altid Gennemsigtigt — Intet skjult
+- 🗣️ **Over 7.100 Sprog** — Dine rettigheder på dit sprog
+- 🤝 **Ejet af Folket** — Af folket, for folket
+
+---
+*Del af Systemet BRASA — Uddannelse · Styre · Erhvervsliv · Åben Bog*
+*Ejet af Verdens Borgere — Bygget med kærlighed på Costa Rica · 2026*
+
+# ⚖️ BRASA — Hallinto
+> Oikeutesi. Äänesi. Selkeästi Kirjoitettu ja Suojattu.
+
+🌐 **Osa BRASA Maailmaa:** [brasa.world](https://brasa.world)
+
+---
+
+## BRASAn Hallinnosta
+Järjestelmä, joka on rakennettu **21 Yleismaailmallisen Oikeuden** varaan — Selkeää kaikille. Ei piilotettuja sääntöjä, ei salaisia päätöksiä. Palvelemaan kansaa, ei valtaa varten.
+
+## Mitä Voit Tehdä
+- 📜 **Lue ja Ymmärrä 21 Oikeutta ja Perustuslaki**
+- 🛡️ Tunne oikeutesi — Selkeästi kirjoitettu ja taattu
+- 🤮 Osallistu kansalaisten hallintoon
+- 📖 Katso miten päätökset tehdään — Kaikki on julkista
+
+## BRASAn Arvot
+- 📜 **21 Oikeutta ja Perustuslaki** — Vapautesi on taattu
+- 💰 Maksuton Kansalaiselle — Julkiset palvelut kaikille
+- 🔍 Aina Läpinäkyvä — Ei mitään salattua
+- 🗣️ **Yli 7.100 Kieltä** — Oikeutesi omalla kielelläsi
+- 🤝 **Kansalaisten Omistuksessa** — Kansalta, Kansalle
+
+---
+*Osa BRASA Järjestelmää — Koulutus · Hallinto · Liiketoiminta · Avoin Kirja*
+*Maailman Kansalaisten Omistuksessa — Rakennettu rakkaudella Costa Ricassa · 2026*
+
+# ⚖️ BRASA — መንግሥት
+> መብቶችዎ። ድምፅዎ። በግልጽ የተጻፈና የተጠበቀ።
+
+🌐 **የBRASA ዓለም አንድ ክፍል፦** [brasa.world](https://brasa.world)
+
+---
+
+## ስለ BRASA መንግሥት
+በ**21 ዓለም አቀፍ መብቶች** ላይ የተገነባ ሥርዓት — ለሁሉም ግልጽ። የተሸሸገ ሕግ የለም፣ የተሸሸገ ውሳኔ የለም። ለሕዝብ ለማገልገል እንጂ ለስልጣን አይደለም።
+
+## ምን ማድረግ እንደሚችሉ
+- 📜 **21 መብቶችንና ሕገ መንግሥትን ያንብቡና ይረዱ**
+- 🛡️ መብቶችዎን ይወቁ — በግልጽ የተጻፉና የተረጋገጡ ናቸው
+- 🤮 በዜጎች አስተዳደር ውስጥ ይሳተፉ
+- 📖 ውሳኔዎች እንዴት እንደሚደረጉ ይመልከቱ — ሁሉም ነገር ለሕዝብ ግልጽ ነው
+
+## የBRASA እሴቶች
+- 📜 **21 መብቶችና ሕገ መንግሥት** — ነፃነትዎ የተረጋገጠ ነው
+- 💰 ለዜጎች ነፃ — የሕዝብ አገልግሎቶች ለሁሉም
+- 🔍 ሁልጊዜ ግልጽ — የተሸሸገ ነገር የለም
+- 🗣️ **ከ7,100 በላይ ቋንቋዎች** — መብቶችዎ በራሶ ቋንቋ
+- 🤝 **በሕዝብ ባለቤትነት** — ከሕዝብ የተወሰደ፣ ለሕዝብ የተሠራ
+
+---
+*የBRASA ሥርዓት አንድ ክፍል፡ ትምህርት · መንግሥት · ንግድ · የተከፈተ መጽሐፍ*
+*በዓለም ዜጎች ባለቤትነት — በኮስታ ሪካ በፍቅር የተሠራ · 2026*
+
+# ⚖️ BRASA — Davlat
+> Sizning Huquqingiz. Sizning Ovozingiz. Aniq Yozilgan va Himoyalangan.
+
+🌐 **BRASA Jahonning bir qismi:** [brasa.world](https://brasa.world)
+
+---
+
+## BRASA Davlat Haqida
+**21 Umumjahon Huquq** asosida qurilgan tizim — Barchaga tushunarli. Yashirin qonunlar yo'q, yashirin qarorlar yo'q. Xalqqa xizmat qilish uchun mavjud, hokimiyat uchun emas.
+
+## Nima Qila Olasiz
+- 📜 **21 Huquq va Konstitutsiyani o'qing va tushuning**
+- 🛡️ Huquqlaringizni biling — Aniq yozilgan va kafolatlangan
+- 🤮 Fuqarolik boshqaruvida ishtirok eting
+- 📖 Qarorlar qanday qabul qilinishini ko'ring — Barchasi ommaviy
+
+## BRASA Qadriyatlari
+- 📜 **21 Huquq va Konstitutsiya** — Ozodligingiz kafolatlangan
+- 💰 Fuqarolar uchun bepul — Davlat xizmatlari barchaga
+- 🔍 Doimo Oshkora — Hech narsa yashirin emas
+- 🗣️ **7.100 dan ortiq tillar** — Huquqlaringiz o'z tilingizda
+- 🤝 **Xalq Mulki** — Xalq tomonidan, Xalq uchun
+
+---
+*BRASA Tizimining bir qismi — Ta'lim · Davlat · Biznes · Ochiq Kitob*
+*Butun Dunyo Fuqarolari Mulki — Kosta-Rikada mehr bilan yaratilgan · 2026*
 
