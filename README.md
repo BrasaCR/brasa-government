@@ -1121,3 +1121,111 @@ Usa ka sistema nga gitukod ibabaw sa **21 nga Unibersal nga Katungod** — Tin-a
 
 ---
 *
+# ⚖️ BRASA — រដ្ឋាភិបាល
+> សិទ្ធិរបស់អ្នក។ សំឡេងរបស់អ្នក។ សរសេរច្បាស់លាស់ និងបានការពារ។
+
+🌐 **ផ្នែកមួយនៃ BRASA ពិភពលោក៖** [brasa.world](https://brasa.world)
+
+---
+
+## អំពីរដ្ឋាភិបាលរបស់ BRASA
+ប្រព័ន្ធមួយដែលបង្កើតឡើងលើគ្រឹះ **សិទ្ធិសកលចំនួន ២១** — ច្បាស់លាស់សម្រាប់ទាំងអស់គ្នា។ គ្មានច្បាប់លាក់កំបាំង គ្មានសេចក្តីសម្រេចលាក់កំបាំង។ មានដើម្បីបម្រើប្រជាជន មិនមែនដើម្បីអំណាច។
+
+## អ្វីដែលអ្នកអាចធ្វើបាន
+- 📜 **អាន និងយល់ពីសិទ្ធិទាំង ២១ និងរដ្ឋធម្មនុញ្ញ**
+- 🛡️ ស្គាល់សិទ្ធិរបស់អ្នក — សរសេរច្បាស់លាស់ និងបានការពារ
+- 🤝 ចូលរួមក្នុងការគ្រប់គ្រងរបស់ប្រជាជន
+- 📖 មើលថាតើសេចក្តីសម្រេចធ្វើឡើងយ៉ាងដូចម្តេច — ទាំងអស់ជារឿងសាធារណៈ
+
+## តម្លៃរបស់ BRASA
+- 📜 **សិទ្ធិទាំង ២១ និងរដ្ឋធម្មនុញ្ញ** — សេរីភាពរបស់អ្នកត្រូវបានធានា
+- 💰 ឥតគិតថ្លៃសម្រាប់ពលរដ្ឋ — សេវាសាធារណៈសម្រាប់ទាំងអស់គ្នា
+- 🔍 តម្លាភាពជានិច្ច — គ្មានអ្វីលាក់ទុក
+- 🗣️ **ភាសាជាង ៧,១០០** — សិទ្ធិរបស់អ្នកជាភាសារបស់អ្នក
+- 🤝 **ជាកម្មសិទ្ធិរបស់ប្រជាជន** — មកពីប្រជាជន សម្រាប់ប្រជាជន
+
+---
+*ផ្នែកមួយនៃប្រព័ន្ធ BRASA — ការអប់រំ · រដ្ឋាភិបាល · ពាណិជ្ជកម្ម · សៀវភៅបើកចំហ*
+*ជាកម្មសិទ្ធិរបស់ពលរដ្ឋពិភពលោក — បង្កើតឡើងដោយក្តីស្រឡាញ់នៅកូស្តារីកា · ២០២៦*
+
+# ⚖️ BRASA — Hökumət
+> Hüquqlarınız. Səsiniz. Aydın Yazılmış və Qorunmuşdur.
+
+🌐 **BRASA Dünyanın bir hissəsidir:** [brasa.world](https://brasa.world)
+
+---
+
+## BRASA Hökumət Haqqında
+**21 Ümumbəşəri Hüquq** üzərində qurulmuş sistem — hamı üçün aydındır. Gizli qanunlar yoxdur, gizli qərarlar yoxdur. Xalqa xidmət etmək üçündür, hakimiyyət üçün deyil.
+
+## Nə Edə Bilərsiniz
+- 📜 **21 Hüququ və Konstitusiyanı Oxuyun və Anlayın**
+- 🛡️ Hüquqlarınızı bilin — aydın yazılmış və təminat altındadır
+- 🤝 Vətəndaş idarəetməsində iştirak edin
+- 📖 Qərarların necə alındığını görün — hamısı ictimai məlumatdır
+
+## BRASA Dəyərləri
+- 📜 **21 Hüquq və Konstitusiya** — Azadlığınız təminat altındadır
+- 💰 Vətəndaşlar üçün pulsuz — İctimai xidmətlər hamı üçündür
+- 🔍 Həmişə Şəffaf — Heç nə gizli deyil
+- 🗣️ **7.100-dən çox Dil** — Hüquqlarınız öz dilinizdə
+- 🤝 **Xalqın Mülkiyyətindədir** — Xalq tərəfindən, Xalq üçün
+
+---
+*BRASA Sisteminin bir hissəsidir — Təhsil · Hökumət · Biznes · Açıq Mühasibat Kitabı*
+*Dünya Vətəndaşlarının Mülkiyyətindədir — Kosta Rikada sevgiylə qurulmuşdur · 2026*
+
+# ⚖️ BRASA — حکوومەت
+> مافەکانت. دەنگەکەت. بە ڕوونی نووسراو و پارێزراو.
+
+🌐 **بەشێک لە BRASA جیهان:** [brasa.world](https://brasa.world)
+
+---
+
+## دەربارەی حکوومەتی BRASA
+سیستەمێک کە لەسەر بنەمای **٢١ مافی گشتی** دروستکراوە — بۆ هەمووان ڕوون. یاسای شاراوە نییە، بڕیاری شاراوە نییە. بۆ خزمەتکردنی خەڵکە، نەک بۆ دەسەڵات.
+
+## چی دەتوانیت بکەیت
+- 📜 **٢١ ماف و دەستوور بخوێنەوە و تێبگە**
+- 🛡️ مافەکانت بناسە — بە ڕوونی نووسراو و پارێزراون
+- 🤝 بەشدار بە لە بەڕێوەبردنی هاووڵاتییاندا
+- 📖 ببینە چۆن بڕیار دەدرێت — هەمووی گشتییە
+
+## بەهاکانی BRASA
+- 📜 **٢١ ماف و دەستوور** — ئازادییەکانت دڵنیایە
+- 💰 بێبەرامە بۆ هاووڵاتییان — خزمەتگوزارییە گشتییەکان بۆ هەمووان
+- 🔍 هەمیشە ڕوون — هیچ شتێک نەشاراوەتەوە
+- 🗣️ **زیاتر لە ٧,١٠٠ زمان** — مافەکانت بە زمانی خۆت
+- 🤝 **خاوەندارێتی خەڵک** — لەلایەن خەڵک، بۆ خەڵک
+
+---
+*بەشێک لە سیستەمی BRASA — پەروەردە · حکوومەت · بازرگانی · پەرستەرەی کراوە*
+*خاوەندارێتی هاووڵاتییانی جیهان — بە خۆشەویستی لە کۆستا ڕیکا دروستکراوە · ٢٠٢٦*
+
+# ⚖️ BRASA — Uhulumeni
+> Amalungelo Akho. Izwi Lakho. Kubhalwe Ngokusobala Futhi Kuvikelekile.
+
+🌐 **Ingxenye ye-BRASA Umhlaba:** [brasa.world](https://brasa.world)
+
+---
+
+## Mayelana noHulumeni we-BRASA
+Uhlelo olwakhelwe phezu kwamaLungelo angama-21 Omhlaba Wonke — Okusobala kuwo wonke umuntu. Akukho mithetho efihliwe, akukho zinqumo ezifihliwe. Lukhona ukuze lusebenzele abantu, hhayi ngenxa yamandla.
+
+## Ongakwenza Lapha
+- 📜 **Funda futhi Uqonde amaLungelo angama-21 kanye noMthethosisekelo**
+- 🛡️ Yazi amalungelo akho — Abhalwe ngokusobala futhi avikelekile
+- 🤮 Bamba iqhaza ekubuseni kwesakhamuzi
+- 📖 Bona ukuthi zithathwa kanjani izinqumo — Konke kusobala emphakathini
+
+## Izimiso ze-BRASA
+- 📜 **Amalungelo angama-21 kanye noMthethosisekelo** — Inkululeko yakho iqinisekisiwe
+- 💰 **Imahhala eSakhamuzini** — Izinsiza zomphakathi zawo wonke umuntu
+- 🔍 **Kusobala Njalo** — Akukho okufihliwe
+- 🗣️ **Izilimi Ezingaphezu kwezi-7,100** — Amalungelo akho ngolimi lwakho
+- 🤝 **IngabeyeBantu** — Kuvela kubantu, kubantu
+
+---
+*Ingxenye yeSistemu ye-BRASA — Imfundo · Uhulumeni · Amabhizinisi · Incwadi Evulekile*
+*IngabeyeSakhamuzi Somhlaba Wonke — Yakhiwe ngothando eKosta Rika · 2026*
+
