@@ -852,3 +852,111 @@ Een systeem gebouwd op **21 Universele Rechten** — duidelijk voor iedereen. Ge
 ---
 *BRASA அமைப்பின் ஒரு பகுதி — கல்வி · அரசு · வணிகம் · திறந்த கணக்கு*
 *உலகக் குடிமக்களுக்கு சொந்தமானது — கோஸ்டா ரிக்காவில் அன்புடன் உருவாக்கப்பட்டது · 2026*
+
+# ⚖️ BRASA — Pemerintahan
+> Hak Anda. Suara Anda. Tertulis Jelas & Dilindungi.
+
+🌐 **Bagian dari BRASA Dunia:** [brasa.world](https://brasa.world)
+
+---
+
+## Tentang Pemerintahan BRASA
+Sistem yang dibangun di atas **21 Hak Universal** — jelas bagi semua orang. Tanpa aturan tersembunyi, tanpa keputusan rahasia. Ada untuk melayani rakyat, bukan untuk kekuasaan.
+
+## Yang Bisa Anda Lakukan
+- 📜 **Baca & Pahami 21 Hak dan Konstitusi**
+- 🛡️ Ketahui hak-hak Anda — tertulis jelas dan dilindungi
+- 🤝 Berpartisipasi dalam pemerintahan rakyat
+- 📖 Lihat bagaimana keputusan diambil — semuanya publik
+
+## Nilai-Nilai BRASA
+- 📜 **21 Hak & Konstitusi** — Kebebasan Anda dijamin
+- 💰 **Gratis bagi Warga Negara** — Layanan publik untuk semua
+- 🔍 **Selalu Transparan** — Tidak ada yang disembunyikan
+- 🗣️ **7.100+ Bahasa** — Hak Anda dalam bahasa Anda
+- 🤝 **Milik Rakyat** — Dari rakyat, untuk rakyat
+
+---
+*Bagian dari Sistem BRASA — Pendidikan · Pemerintahan · Bisnis · Buku Besar Terbuka*
+*Milik Warga Dunia — Dibangun dengan kasih di Kosta Rika · 2026*
+
+# ⚖️ BRASA — Serikali
+> Haki Zako. Sauti Yako. Imeandikwa Wazi na Kuhakikishwa.
+
+🌐 **Sehemu ya BRASA Ulimwengu:** [brasa.world](https://brasa.world)
+
+---
+
+## Kuhusu Serikali ya BRASA
+Mfumo uliojengwa juu ya **Haki 21 za Kila Mtu** — Wazi kwa kila mtu. Bila sheria za siri, bila maamuzi ya siri. Iko kwa kuwahudumia watu, sio kwa mamlaka.
+
+## Unachoweza Kufanya
+- 📜 **Soma na Uelewe Haki 21 na Katiba**
+- 🛡️ Jua haki zako — Zimeandikwa wazi na zinalindwa
+- 🤝 Shiriki katika utawala wa raia
+- 📖 Tazama jinsi maamuzi yanavyofanywa — Yote ni ya umma
+
+## Thamani za BRASA
+- 📜 **Haki 21 & Katiba** — Uhuru wako umehakikishwa
+- 💰 **Bure kwa Raia** — Huduma za umma kwa kila mtu
+- 🔍 **Daima Wazi** — Hakuna kilichofichwa
+- 🗣️ **Lugha Zaidi ya 7,100** — Haki zako kwa lugha yako
+- 🤝 **Inamilikiwa na Watu** — Kutoka kwa watu, kwa watu
+
+---
+*Sehemu ya Mfumo wa BRASA — Elimu · Serikali · Biashara · Kitabu Wazi*
+*Inamilikiwa na Raia wa Ulimwengu — Imeundwa kwa upendo huko Kosta Rika · 2026*
+
+# ⚖️ BRASA — حکومت
+> ستاسو حقونه. ستاسو غږ. په واضح ډول لیکل شوي او خوندي.
+
+🌐 **د BRASA نړۍ یوه برخه:** [brasa.world](https://brasa.world)
+
+---
+
+## د BRASA د حکومت په اړه
+په **21 نړیوالو حقونو** باندې جوړ شوی سیسټم — هر چا ته واضح. پټ قوانین نشته، پټې پریکړې نشته. د خلکو د خدمت لپاره، نه د واک لپاره.
+
+## څه کولی شئ
+- 📜 **21 حقونه او اساسي قانون ولولئ او پوه شئ**
+- 🛡️ خپل حقونه وپېژنئ — په واضح ډول لیکل شوي او خوندي دي
+- 🤝 د وګړو په اداره کې برخه واخلئ
+- 📖 وګورئ چې پریکړې څنګه کیږي — هر څه عامه دي
+
+## د BRASA ارزښتونه
+- 📜 **21 حقونه او اساسي قانون** — ستاسو ازادي تضمین شوې
+- 💰 وګړو ته ویاړ — عامه خدمتونه هر چا ته
+- 🔍 **تل روښانه** — هیڅ پټ ندي
+- 🗣️ **د 7,100 څخه زیاتې ژبې** — ستاسو حقونه ستاسو په ژبه کې
+- 🤝 **د خلکو ملکیت** — د خلکو له لوري، د خلکو لپاره
+
+---
+*د BRASA سیسټم یوه برخه — زده کړه · حکومت · سوداګري · پرانیستی کتاب*
+*د نړۍ د وګړو ملکیت — په کوسټا ریکا کې په مینه جوړ شوی · 2026*
+
+# ⚖️ BRASA — Pamrentahan
+> Hak Sampeyan. Swara Sampeyan. Ditulis Cetha & Dilindungi.
+
+🌐 **Bagean saka BRASA Jagad Donya:** [brasa.world](https://brasa.world)
+
+---
+
+## Babagan Pamrentahan BRASA
+Sistem sing dibangun ing dhuwur **21 Hak Universal** — cetha kanggo kabeh wong. Tanpa aturan rahasia, tanpa keputusan sing didhelikake. Ana kanggo ngladeni rakyat, dudu kanggo kekuwatan.
+
+## Sampeyan Bisa Nindakake Apa
+- 📜 **Waca & Mangerteni 21 Hak lan Konstitusi**
+- 🛡️ Ngerti hak-hak sampeyan — ditulis kanthi cetha lan dilindungi
+- 🤝 Melu pamrentahan rakyat
+- 📖 Deleng kepiye cara njupuk keputusan — kabeh iku umum
+
+## Nilai-Nilai BRASA
+- 📜 **21 Hak & Konstitusi** — Kamardikan sampeyan dijamin
+- 💰 Gratis kanggo Warga Negara — Layanan umum kanggo kabeh
+- 🔍 **Tansah Transparan** — Ora ana sing didhelikake
+- 🗣️ **Luwih saka 7.100 Basa** — Hak sampeyan nganggo basa sampeyan
+- 🤝 **Duweni dening Rakyat** — Saka rakyat, kanggo rakyat
+
+---
+*Bagean saka Sistem BRASA — Pendhidhikan · Pamrentahan · Bisnis · Buku Besar Terbuka*
+*Duweni dening Warga Donya — Dibangun kanthi tresna ing Kosta Rika · 2026*
