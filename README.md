@@ -960,3 +960,164 @@ Sistem sing dibangun ing dhuwur **21 Hak Universal** — cetha kanggo kabeh wong
 ---
 *Bagean saka Sistem BRASA — Pendhidhikan · Pamrentahan · Bisnis · Buku Besar Terbuka*
 *Duweni dening Warga Donya — Dibangun kanthi tresna ing Kosta Rika · 2026*
+
+# ⚖️ BRASA — सरकार
+> तपाईंका अधिकारहरू। तपाईंको आवाज। स्पष्ट लिखित रूपमा र सुरक्षित।
+
+🌐 **BRASA विश्वको एक अंश:** [brasa.world](https://brasa.world)
+
+---
+
+## BRASA सरकारका बारेमा
+**21 विश्वव्यापी अधिकारहरूमा** आधारित प्रणाली — सबैका लागि स्पष्ट। लुकेका नियमहरू छैनन्, लुकेका निर्णयहरू छैनन्। जनताको सेवाका लागि, शक्तिका लागि होइन।
+
+## तपाईंले यहाँ के गर्न सक्नुहुन्छ
+- 📜 **21 अधिकार र संविधान पढ्नुहोस् र बुझ्नुहोस्**
+- 🛡️ आफ्ना अधिकारहरू जान्नुहोस् — स्पष्ट लिखित रूपमा र सुरक्षित
+- 🤝 नागरिक शासनमा सहभागी हुनुहोस्
+- 📖 निर्णयहरू कसरी लिइन्छन् हेर्नुहोस् — सबै कुरा सार्वजनिक छन्
+
+## BRASA मूल्यहरू
+- 📜 **21 अधिकार र संविधान** — तपाईंको स्वतन्त्रता सुनिश्चित
+- 💰 **नागरिकका लागि निःशुल्क** — सार्वजनिक सेवाहरू सबैका लागि
+- 🔍 **सदैव पारदर्शी** — केही पनि लुकाइएको छैन
+- 🗣️ **7,100 भन्दा बढी भाषाहरू** — तपाईंका अधिकार तपाईंकै भाषामा
+- 🤝 **जनताको स्वामित्वमा** — जनताद्वारा, जनताका लागि
+
+---
+*BRASA प्रणालीको एक अंश — शिक्षा · सरकार · व्यापार · खुला खाता*
+*विश्वका नागरिकहरूको स्वामित्वमा · कोस्टा रिकामा मायाले निर्माण गरिएको · 2026*
+
+# ⚖️ BRASA — Guvern
+> Drepturile Tale. Vocea Ta. Scrie Clar și Protejate.
+
+🌐 **Parte din BRASA Lume:** [brasa.world](https://brasa.world)
+
+---
+
+## Despre Guvernul BRASA
+Un sistem construit pe **21 de Drepturi Universale** — Clar pentru toți. Fără reguli ascunse, fără decizii secrete. Există pentru a servi poporul, nu pentru putere.
+
+## Ce Poți Face Aici
+- 📜 **Citește și Înțelege Cele 21 de Drepturi și Constituția**
+- 🛡️ Cunoaște-ți drepturile — Scrie clar și garantate
+- 🤝 Participă la guvernarea cetățenească
+- 📖 Vedeți cum sunt luate deciziile — Totul este public
+
+## Valorile BRASA
+- 📜 **21 de Drepturi și Constituție** — Libertatea ta este garantată
+- 💰 **Gratuit pentru Cetățeni** — Servicii publice pentru toți
+- 🔍 **Mereu Transparent** — Nimic nu este ascuns
+- 🗣️ **Peste 7.100 de Limbi** — Drepturile tale în limba ta
+- 🤝 **Proprietatea Poporului** — De la popor, pentru popor
+
+---
+*Parte din Sistemul BRASA — Educație · Guvern · Afaceri · Registru Deschis*
+*Proprietatea Cetățenilor Lumii — Creat cu iubire în Costa Rica · 2026*
+
+# ⚖️ BRASA — Guvern
+> Drepturile Tale. Vocea Ta. Scrie Clar și Protejate.
+
+🌐 **Parte din BRASA Lume:** [brasa.world](https://brasa.world)
+
+---
+
+## Despre Guvernul BRASA
+Un sistem construit pe **21 de Drepturi Universale** — Clar pentru toți. Fără reguli ascunse, fără decizii secrete. Există pentru a servi poporul, nu pentru putere.
+
+## Ce Poți Face Aici
+- 📜 **Citește și Înțelege Cele 21 de Drepturi și Constituția**
+- 🛡️ Cunoaște-ți drepturile — Scrie clar și garantate
+- 🤝 Participă la guvernarea cetățenească
+- 📖 Vedeți cum sunt luate deciziile — Totul este public
+
+## Valorile BRASA
+- 📜 **21 de Drepturi și Constituție** — Libertatea ta este garantată
+- 💰 **Gratuit pentru Cetățeni** — Servicii publice pentru toți
+- 🔍 **Mereu Transparent** — Nimic nu este ascuns
+- 🗣️ **Peste 7.100 de Limbi** — Drepturile tale în limba ta
+- 🤝 **Proprietatea Poporului** — De la popor, pentru popor
+
+---
+*Parte din Sistemul BRASA — Educație · Guvern · Afaceri · Registru Deschis*
+*Proprietatea Cetățenilor Lumii — Creat cu iubire în Costa Rica · 2026*
+
+# ⚖️ BRASA — Gobyerno
+> Ang Imong Mga Katungod. Ang Imong Tingog. Tin-aw nga Sinulat ug Gipanalipdan.
+
+🌐 **Bahin sa BRASA Kalibutan:** [brasa.world](https://brasa.world)
+
+---
+
+## Bahin sa Gobyerno sa BRASA
+Usa ka sistema nga gitukod ibabaw sa **21 nga Unibersal nga Katungod** — Tin-aw alang sa tanan. Walay tinago nga lagda, walay tinago nga desisyon. Nag-alagad sa Katawhan, dili alang sa Gahum.
+
+## Unsay Mahimo Nimo Dinhi
+- 📜 **Basaha ug Sabuta ang 21 nga Katungod ug ang Konstitusyon**
+- 🛡️ Kahibalo sa imong mga katungod — Tin-aw nga sinulat ug gipanalipdan
+- 🤝 Pag-apil sa pagdumala sa mga lungsuranon
+- 📖 Tan-awa kon sa unsang paagi gihimo ang mga desisyon — Ang tanan bukas sa publiko
+
+## Ang Mga Bili sa BRASA
+- 📜 **21 nga Katungod ug Konstitusyon** — Ang imong kagawasan gigarantiyahan
+- 💰 **Libre alang sa Lungsuranon** — Mga serbisyo publiko alang sa tanan
+- 🔍 **Kanunay nga Transparente** — Walay gitago
+- 🗣️ **Labaw sa 7,100 ka Pinulongan** — Ang imong mga katungod sa imong pinulongan
+- 🤝 **Gipanag-iya sa Katawhan** — Gikan sa Katawhan, Alang sa Katawhan
+
+---
+*Bahin sa Sistema sa BRASA — Edukasyon · Gobyerno · Negosyo · Bukas nga Libro*
+*Gipanag-iya sa mga Lungsuranon sa Kalibutan — Gihimo uban ang Gugma sa Costa Rica · 2026*
+
+# ⚖️ BRASA — Gobyerno
+> Ang Imong Mga Katungod. Ang Imong Tingog. Tin-aw nga Sinulat ug Gipanalipdan.
+
+🌐 **Bahin sa BRASA Kalibutan:** [brasa.world](https://brasa.world)
+
+---
+
+## Bahin sa Gobyerno sa BRASA
+Usa ka sistema nga gitukod ibabaw sa **21 nga Unibersal nga Katungod** — Tin-aw alang sa tanan. Walay tinago nga lagda, walay tinago nga desisyon. Nag-alagad sa Katawhan, dili alang sa Gahum.
+
+## Unsay Mahimo Nimo Dinhi
+- 📜 **Basaha ug Sabuta ang 21 nga Katungod ug ang Konstitusyon**
+- 🛡️ Kahibalo sa imong mga katungod — Tin-aw nga sinulat ug gipanalipdan
+- 🤝 Pag-apil sa pagdumala sa mga lungsuranon
+- 📖 Tan-awa kon sa unsang paagi gihimo ang mga desisyon — Ang tanan bukas sa publiko
+
+## Ang Mga Bili sa BRASA
+- 📜 **21 nga Katungod ug Konstitusyon** — Ang imong kagawasan gigarantiyahan
+- 💰 **Libre alang sa Lungsuranon** — Mga serbisyo publiko alang sa tanan
+- 🔍 **Kanunay nga Transparente** — Walay gitago
+- 🗣️ **Labaw sa 7,100 ka Pinulongan** — Ang imong mga katungod sa imong pinulongan
+- 🤝 **Gipanag-iya sa Katawhan** — Gikan sa Katawhan, Alang sa Katawhan
+
+---
+*Bahin sa Sistema sa BRASA — Edukasyon · Gobyerno · Negosyo · Bukas nga Libro*
+*Gipanag-iya sa mga Lungsuranon sa Kalibutan — Gihimo uban ang Gugma sa Costa Rica · 2026*
+
+# ⚖️ BRASA — රජය
+> ඔබගේ අයිතිවාසිකම්. ඔබගේ හඬ. පැහැදිලිව ලියා ආරක්ෂා වී ඇත.
+
+🌐 **BRASA ලෝකයේ කොටසකි:** [brasa.world](https://brasa.world)
+
+---
+
+## BRASA රජය ගැන
+**විශ්වව්‍යාප්ත අයිතිවාසිකම් 21ක් මත පදනම් වූ පද්ධතියකි** — සෑම දෙනාටම පැහැදිලි. සැඟවුණු නීති නැත, සැඟවුණු තීරණ නැත. ජනතාවට සේවය කිරීමට පමණක්, බලය සදහා නොවේ.
+
+## ඔබට මෙහි කළ හැකි දේ
+- 📜 **අයිතිවාසිකම් 21ක් සහ ආණ්ඩුක්‍රම ව්‍යවස්ථාව කියවා තේරුම් ගන්න**
+- 🛡️ ඔබගේ අයිතිවාසිකම් දැනගන්න — පැහැදිලිව ලියා ආරක්ෂා වී ඇත
+- 🤝 පුරවැසි පාලනයට සහභාගී වන්න
+- 📕 තීරණ ගන්නේ කෙසේදැයි බලන්න — සියල්ල මහජනතාවට විවෘතයි
+
+## BRASA හි අගයන්
+- 📜 **අයිතිවාසිකම් 21ක් සහ ආණ්ඩුක්‍රම ව්‍යවස්ථාව** — ඔබගේ ස්වාධීනත්වය සහතිකයි
+- 💰 **පුරවැසියන්ට නොමිලේ** — මහජන සේවා සෑම දෙනාටම
+- 🔍 **සැමවිටම විනිවිද** — සැඟවුණු කිසිවක් නැත
+- 🗣️ **භාෂා 7,100කට වඩා** — ඔබගේ අයිතිවාසිකම් ඔබගේ භාෂාවෙන්
+- 🤝 **ජනතාගේ හිමිකාරීත්වය** — ජනතාව විසින්, ජනතාව සදහා
+
+---
+*
