@@ -556,3 +556,110 @@ An gina shi bisa **Haƙƙoƙi 21 na asali** — a fili ga kowa, bayyananne. Babu
 *بخشی از سیستم BRASA — آموزش · حکومت · کسب‌وکار · دفتر کل باز*
 *متعلق به شهروندان جهان — ساخته شده با محبت در کاستاریکا · ۲۰۲۶*
 
+# ⚖️ బ్రాసా — ప్రభుత్వం
+> మీ హక్కులు. మీ స్వరం. స్పష్టంగా వ్రాయబడినవి మరియు రక్షించబడినవి.
+
+🌐 **బ్రాసా ప్రపంచంలో భాగం:** [brasa.world](https://brasa.world)
+
+---
+
+## బ్రాసా ప్రభుత్వం గురించి
+**21 మూలభూత హక్కులపై** నిర్మించబడిన వ్యవస్థ — అందరికీ స్పష్టంగా. రహస్య నియమాలు లేవు, రహస్య నిర్ణయాలు లేవు. ఈ వ్యవస్థ ప్రజలకు సేవ చేయడానికే, అధికారం కోసం కాదు.
+
+## మీరు ఇక్కడ ఏమి చేయవచ్చు
+- 📜 **21 హక్కులు మరియు రాజ్యాంగం** చదివి అర్థం చేసుకోండి
+- 🛡️ మీ హక్కులను తెలుసుకోండి — స్పష్టంగా వ్రాయబడినవి మరియు రక్షించబడినవి
+- 🤝 ప్రజాస్వామ్య ప్రక్రియలో పాల్గొనండి
+- 📖 నిర్ణయాలు ఎలా తీసుకుంటారో — అంతా బహిరంగమే
+
+## బ్రాసా విలువలు
+- 📜 **21 హక్కులు & రాజ్యాంగం** — మీ స్వాతంత్ర్యం భద్రం
+- 💰 **పౌరులకు ఉచితం** — ప్రజా సేవలు అందరికీ
+- 🔍 **ఎప్పుడూ పారదర్శకం** — దాగింది ఏమీ లేదు
+- 🗣️ **7,100 కంటే ఎక్కువ భాషలు** — మీ హక్కులు మీ భాషలో
+- 🤝 **ప్రజల సొత్తు** — ప్రజలదే, ప్రజల కోసమే
+
+---
+*బ్రాసా వ్యవస్థలో భాగం — విద్యా · ప్రభుత్వం · వ్యాపారం · బహిరంగ నమోదు*
+*ప్రపంచ పౌరుల స్వంత ఆస్తి · కోస్టా రికాలో ప్రేమతో రూపొందించబడింది · 2026*
+
+# ⚖️ BRASA — Governo
+> I tuoi Diritti. La Tua Voce. Scritti chiaramente e protetti.
+
+🌐 **Parte di BRASA Mondo:** [brasa.world](https://brasa.world)
+
+---
+
+## Il Governo di BRASA
+Un sistema fondato su **21 Diritti Fondamentali** — chiaro per tutti, facile da capire. Nessuna legge segreta, nessuna decisione nascosta. Esiste per servire il popolo, non per il potere.
+
+## Cosa puoi fare qui
+- 📜 Leggi e comprendi i **21 Diritti e la Costituzione**
+- 🛡️ Conosci i tuoi diritti — scritti chiaramente e protetti
+- 🤝 Partecipa al governo del popolo
+- 📖 Osserva come vengono prese le decisioni — Tutto è pubblico
+
+## I valori di BRASA
+- 📜 **21 Diritti e Costituzione** — La tua libertà è garantita
+- 💰 **GRATUITO per i cittadini** — Servizi pubblici per tutti
+- 🔍 **Sempre trasparente** — Nulla è nascosto
+- 🗣️ **Più di 7.100 lingue** — I tuoi diritti nella tua lingua
+- 🤝 **Del Popolo** — Dal popolo, per il popolo
+
+---
+*Parte del Sistema BRASA — Istruzione · Governo · Commercio · Registro Aperto*
+*Di proprietà dei cittadini del mondo — Creato con amore in Costa Rica · 2026*
+
+# ⚖️ બ્રાસા — સરકાર
+> તમારા અધિકારો. તમારો અવાજ. સ્પષ્ટ લખેલા અને સુરક્ષિત.
+
+🌐 **બ્રાસા વિશ્વનો ભાગ:** [brasa.world](https://brasa.world)
+
+---
+
+## બ્રાસા સરકાર વિશે
+**21 મૂળભૂત અધિકારો** પર આધારિત પ્રણાલી — સૌને સ્પષ્ટ. કોઈ ગુપ્ત નિયમ નહીં, કોઈ ગુપ્ત નિર્ણય નહીં. આ પ્રણાલી લોકોની સેવા કરવા માટે છે, સત્તા માટે નહીં.
+
+## તમે અહીં શું કરી શકો
+- 📜 **21 અધિકારો અને બંધારણ** વાંચો અને સમજો
+- 🛡️ તમારા અધિકારો જાણો — સ્પષ્ટ લખેલા અને સુરક્ષિત
+- 🤝 લોકશાહી પ્રક્રિયામાં ભાગ લો
+- 📖 નિર્ણય કેવી રીતે લેવાય છે — બધું જાહેરમાં
+
+## બ્રાસાનાં મૂલ્યો
+- 📜 **21 અધિકારો અને બંધારણ** — તમારી સ્વતંત્રતા સુરક્ષિત
+- 💰 **નાગરિકો માટે નિઃશુલ્ક** — જનતા સેવા સૌ માટે
+- 🔍 **હંમેશા પારદર્શક** — કંઈ છુપાયેલું નથી
+- 🗣️ **7,100 થી વધુ ભાષાઓ** — તમારા અધિકારો તમારી ભાષામાં
+- 🤝 **લોકોની માલિકીમાં** — લોકોનું, લોકો માટે
+
+---
+*બ્રાસા પ્રણાલીનો ભાગ — શિક્ષણ · સરકાર · વેપાર · ખુલ્લું નોંધણીપત્રક*
+*વિશ્વના નાગરિકોની માલિકીમાં — કોસ્ટા રિકામાં પ્રેમથી બનાવેલ · 2026*
+
+# ⚖️ BRASA — Rząd
+> Twoje Prawa. Twój Głos. Zapisane jasno i chronione.
+
+🌐 **Część BRASA Świat:** [brasa.world](https://brasa.world)
+
+---
+
+## Rząd w BRASA
+System zbudowany na **21 Prawach Podstawowych** — jasny dla wszystkich, zrozumiały. Żadnych tajnych ustaw, żadnych ukrytych decyzji. Istnieje aby służyć ludowi, a nie dla władzy.
+
+## Co możesz tu zrobić
+- 📜 Przeczytaj i zrozumiej **21 Praw i Konstytucję**
+- 🛡️ Poznaj swoje prawa — zapisane jasno i chronione
+- 🤝 Uczestnicz w rządzeniu ludem
+- 📖 Zobacz jak podejmowane są decyzje — Wszystko publicznie
+
+## Wartości BRASA
+- 📜 **21 Praw i Konstytucja** — Twoja wolność jest chroniona
+- 💰 **Bezpłatne dla obywateli** — Usługi publiczne dla wszystkich
+- 🔍 **Zawsze przejrzyste** — Nic nie jest ukrywane
+- 🗣️ **Ponad 7 100 języków** — Twoje prawa w Twoim języku
+- 🤝 **Własność Ludzi** — Od ludzi, dla ludzi
+
+---
+*Część Systemu BRASA — Edukacja · Rząd · Handel · Otwarty Rejestr*
+*Własność Obywateli Świata — Stworzone z Miłością w Kostaryce · 2026*
