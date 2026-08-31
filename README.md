@@ -1419,3 +1419,56 @@ Järjestelmä, joka on rakennettu **21 Yleismaailmallisen Oikeuden** varaan — 
 *BRASA Tizimining bir qismi — Ta'lim · Davlat · Biznes · Ochiq Kitob*
 *Butun Dunyo Fuqarolari Mulki — Kosta-Rikada mehr bilan yaratilgan · 2026*
 
+# ⚖️ BRASA — Styrelse
+> Dina Rättigheter. Din Röst. Tydligt Skrivet och Skyddat.
+
+🌐 **Del av BRASA Värld:** [brasa.world](https://brasa.world)
+
+---
+
+## Om BRASA Styrelse
+Ett system byggt på **21 Universella Rättigheter** — tydligt för alla. Inga dolda regler, inga hemliga beslut. Finns för att tjäna folket, inte för makt.
+
+## Vad Du Kan Göra
+- 📜 **Läs och Förstå 21 Rättigheter och Grundlagen**
+- 🛡️ Känn dina rättigheter — tydligt formulerade och garanterade
+- 🤮 Delta i medborgarstyrning
+- 📖 Se hur beslut fattas — allt är offentligt
+
+## BRASAs Värderingar
+- 📜 **21 Rättigheter och Grundlag** — Din frihet är garanterad
+- 💰 Gratis för Medborgarna — Offentliga tjänster för alla
+- 🔍 Alltid Genomskinligt — Inget dolt
+- 🗣️ **Över 7 100 Språk** — Dina rättigheter på ditt språk
+- 🤝 **Folket Äger Det** — Av folket, för folket
+
+---
+*Del av BRASA-systemet — Utbildning · Styrelse · Näringsliv · Öppen Bok*
+*Ägs av Världens Medborgare — Byggt med kärlek på Costa Rica · 2026*
+
+# ⚖️ BRASA — Gouvenman
+> Dwa Ou yo. Vwa Ou. Ekri Klè ak Pwoteje.
+
+🌐 **Pati nan BRASA Monn:** [brasa.world](https://brasa.world)
+
+---
+
+## Konsènan Gouvenman BRASA
+Yon sistèm bati sou **21 Dwa Inivèsèl** — Klè pou tout moun. Pa gen règ kache, pa gen desizyon kache. Li egziste pou sèvi pèp la, se pa pou pouvwa.
+
+## Kisa Ou Ka Fè
+- 📜 **Li ak Konprann 21 Dwa ak Konstitisyon an**
+- 🛡️ Konnen dwa ou yo — Ekri klè ak garanti
+- 🤮 Patisipe nan jere peyi a
+- 📖 Wè kòman yo pran desizyon — Tout bagay piblik
+
+## Valè BRASA yo
+- 📜 **21 Dwa ak Konstitisyon** — Libète ou garanti
+- 💰 Gratis pou Sitwayen yo — Sèvis piblik pou tout moun
+- 🔍 Toujou Transparan — Pa gen anyen kache
+- 🗣️ **Plis pase 7 100 Lang** — Dwa ou yo nan lang ou
+- 🤝 **Se Pèp Ki Posede Li** — Soti nan pèp la, Pou pèp la
+
+---
+*Pati nan Sistèm BRASA a — Edikasyon · Gouvenman · Komès · Liv Ouvè*
+*Se Sitwayen Monn Ki Posede Li — Konstwi ak Lanmou nan Kosta Rika · 2026*
