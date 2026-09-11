@@ -10,6 +10,9 @@ export default {
   async fetch(request, env) {
     const url = new URL(request.url);
     if (url.pathname === '/health') return json({ ok: true, service: 'brasa-government', version: 1 });
+    if (url.pathname === '/operator/reviews') {
+      const asset=await env.ASSETS.fetch(new Request(new URL('/operator-reviews.html',request.url),request)),response=new Response(asset.body,asset);response.headers.set('cache-control','no-store');response.headers.set('x-content-type-options','nosniff');response.headers.set('referrer-policy','no-referrer');response.headers.set('content-security-policy',"default-src 'self'; style-src 'self'; script-src 'self'; connect-src 'self'; img-src 'none'; frame-ancestors 'none'; base-uri 'none'; form-action 'self'");return response;
+    }
     if (url.pathname.startsWith('/api/operator/v1/')) {
       if (!env.REVIEWS_DB) return json({ error: 'review_registry_unavailable' }, 503, { 'cache-control': 'no-store' });
       if (url.pathname === '/api/operator/v1/session/exchange') {

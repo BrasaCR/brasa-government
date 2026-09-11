@@ -1,0 +1,6 @@
+import assert from 'node:assert/strict';import { readFile } from 'node:fs/promises';import test from 'node:test';import worker from '../src/index.js';
+const html=await readFile(new URL('../operator-reviews.html',import.meta.url),'utf8'),script=await readFile(new URL('../operator-reviews.js',import.meta.url),'utf8');
+const config=await readFile(new URL('../wrangler.jsonc',import.meta.url),'utf8');
+test('private console keeps reviewer tokens in memory and remote values in text nodes',()=>{assert.match(html,/Required attestations/);assert.match(script,/let token=null/);assert.match(script,/credentials:'omit'/);assert.match(script,/textContent/);assert.doesNotMatch(script,/localStorage|sessionStorage|insertAdjacentHTML|document\.write/)});
+test('console document is no-store with a restrictive browser policy',async()=>{const response=await worker.fetch(new Request('https://government/operator/reviews'),{ASSETS:{fetch:async()=>new Response(html)}});assert.equal(response.status,200);assert.equal(response.headers.get('cache-control'),'no-store');assert.match(response.headers.get('content-security-policy'),/connect-src 'self'/);assert.match(response.headers.get('content-security-policy'),/img-src 'none'/)});
+test('Cloudflare routes every asset request through the Worker policy',()=>{assert.match(config,/"run_worker_first":true/)});

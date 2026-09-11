@@ -19,3 +19,11 @@ Public services now have deterministic IDs derived from their catalog category a
 Review APIs live only under `/api/operator/v1/`. Identity issues a separate 15-minute `brasa-government-operator` session from a one-time invitation, and Government additionally requires an active named reviewer in its own registry. A review requires an HTTPS source, separate HTTPS evidence, five explicit attestations, a bounded reason, and an expiry no more than 366 days ahead. Successful reviews publish only review status, evidence URL, review time, and expiry. Reviewer identity and audit reasons remain private.
 
 The staging registry begins empty. Deployment never promotes existing catalog links automatically, and a missing database or Identity binding fails closed.
+
+### Reviewer onboarding and console
+
+The staging-only reviewer administration tool establishes the initial trust boundary without embedding administrator credentials in the Worker. Bootstrap is permitted only while the reviewer registry is empty, requires an exact staging confirmation, and creates two distinct administrators together. After bootstrap, one active administrator requests a reviewer and a different active administrator must approve the request within 24 hours. One-time invitation codes are generated locally; Identity stores only their SHA-256 digests.
+
+The review console is served at `/operator/reviews`. It keeps the 15-minute reviewer token only in page memory, renders catalog and API values as text, and never persists credentials in browser storage. The document is always routed through the Worker so it receives `Cache-Control: no-store`, a restrictive Content Security Policy, `nosniff`, and a no-referrer policy. The console can search the public catalog and submit exact-source evidence, expiry, reason, and all five required attestations through the protected operator API.
+
+The current staging registry intentionally remains empty. No reviewer should be bootstrapped and no source should be marked reviewed until two real BRASA trust administrators are named and genuine review evidence is available.
