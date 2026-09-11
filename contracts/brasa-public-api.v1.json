@@ -1,0 +1,10 @@
+{
+  "contractVersion": "1.0.0",
+  "canonicalSource": "brasa-world/contracts/public-api.v1.json",
+  "operationId": "findGovernmentServices",
+  "servicePath": "/api/v1/services",
+  "methods": ["GET", "HEAD"],
+  "requiredRoot": ["data", "meta"],
+  "requiredItem": ["schemaVersion", "id", "countryCode", "label", "category", "sourceUrl", "sourceStatus", "informationalOnly"],
+  "forbiddenFields": ["govId", "actorId", "studentId", "learnerId", "membership", "progress", "grade", "credential", "eligibility", "political", "activity"]
+}
