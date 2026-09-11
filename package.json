@@ -1,1 +1,1 @@
-{"name":"@brasa/government","private":true,"type":"module","scripts":{"build":"node scripts/build-assets.mjs","test":"node --test test/*.test.mjs"}}
+{"name":"@brasa/government","private":true,"type":"module","scripts":{"build":"node scripts/build-assets.mjs","test":"node --test test/*.test.mjs"},"devDependencies":{"wrangler":"4.131.1"}}
