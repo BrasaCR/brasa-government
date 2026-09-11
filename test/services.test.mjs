@@ -9,6 +9,11 @@ test('searches anonymous sourced civic records', () => {
   assert.equal(result.data.length, 1); assert.equal(result.data[0].sourceStatus, 'unreviewed-existing-index'); assert.equal(result.data[0].informationalOnly, true);
   for (const field of ['govId','political','eligibility','citizenId','activity']) assert.equal(JSON.stringify(result).includes(field), false);
 });
+test('service identifiers remain stable across filters and result positions', () => {
+  const all=queryServices(records,new URLSearchParams('countryCode=CR')).data;
+  const filtered=queryServices(records,new URLSearchParams('q=schools&countryCode=CR')).data;
+  assert.equal(filtered[0].id,all[1].id);assert.match(filtered[0].id,/^cr-[a-z0-9-]+$/);
+});
 test('fails closed outside reviewed country coverage', () => {
   assert.equal(queryServices(records, new URLSearchParams('countryCode=US')).error, 'country_not_available'); assert.equal(queryServices(records, new URLSearchParams('limit=none')).error, 'invalid_limit');
 });
