@@ -1,6 +1,6 @@
 import { queryServices } from './services.js';
 import { serviceNavigator } from './experiences.js';
-import { applyReviews, authenticateReviewer, listReviews, reviewSource } from './reviews.js';
+import { applyReviews, authenticateReviewer, listReviews, reviewSource, suspendReview } from './reviews.js';
 const json = (value, status = 200, extra = {}) => new Response(JSON.stringify(value), { status, headers: { 'content-type': 'application/json; charset=utf-8', ...extra } });
 async function catalog(request, env) {
   const response = await env.ASSETS.fetch(new Request(new URL('/search-index.json', request.url), { headers: { accept: 'application/json' } }));
@@ -30,6 +30,9 @@ export default {
       const review=url.pathname.match(/^\/api\/operator\/v1\/services\/([^/]+)\/review$/);
       if (review && request.method === 'POST') { let id;try{id=decodeURIComponent(review[1])}catch{return json({error:'invalid_service_id'},400,{'cache-control':'no-store'})}return reviewSource(request,env,id,await catalog(request,env),access.reviewer); }
       if (review) return json({ error: 'method_not_allowed' }, 405, { allow: 'POST' });
+      const suspension=url.pathname.match(/^\/api\/operator\/v1\/reviews\/([^/]+)\/suspend$/);
+      if(suspension&&request.method==='POST'){let id;try{id=decodeURIComponent(suspension[1])}catch{return json({error:'invalid_service_id'},400,{'cache-control':'no-store'})}return suspendReview(request,env,id,access.reviewer)}
+      if(suspension)return json({error:'method_not_allowed'},405,{allow:'POST','cache-control':'no-store'});
       return json({ error: 'operator_route_not_found' }, 404, { 'cache-control': 'no-store' });
     }
     if (url.pathname === '/api/v1/experiences/service-navigator') {
