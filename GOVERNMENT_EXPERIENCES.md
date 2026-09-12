@@ -26,7 +26,7 @@ The staging-only reviewer administration tool establishes the initial trust boun
 
 The review console is served at `/operator/reviews`. It keeps the 15-minute reviewer token only in page memory, renders catalog and API values as text, and never persists credentials in browser storage. The document is always routed through the Worker so it receives `Cache-Control: no-store`, a restrictive Content Security Policy, `nosniff`, and a no-referrer policy. The console can search the public catalog and submit exact-source evidence, expiry, reason, and all five required attestations through the protected operator API.
 
-The current staging registry intentionally remains empty. The sole real BRASA administrator must be identified by name and BRASA display ID before bootstrap, and no source should be marked reviewed until genuine review evidence is available.
+The staging registry was bootstrapped on 2026-09-11 with the approved sole administrator `Richard` (`BRA-ADMIN-RICHARD01`). The bootstrap produced its required audit event. No reviewer invitation or source approval was created, and no source should be marked reviewed until genuine review evidence is available.
 
 Reviewer lifecycle commands are also local and staging-only. The sole administrator is protected from suspension. The administrator may suspend a non-administrator reviewer, which revokes every live Identity session and unused invitation for the target; reactivation deliberately requires a new invitation before access resumes. Pending onboarding requests are marked expired before the queue is displayed, and the content-free administration history can be inspected without exposing invitation or session secrets.
 
