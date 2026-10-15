@@ -1483,4 +1483,26 @@ Yon sistèm bati sou **21 Dwa Inivèsèl** — Klè pou tout moun. Pa gen règ k
 
 ---
 *Pati nan Sistèm BRASA a — Edikasyon · Gouvenman · Komès · Liv Ouvè*
+
+<!-- BRASA-PLATFORM-UPDATE:START -->
+## BRASA Government today: public knowledge connected to action
+
+BRASA Government organizes country-specific public information so citizens and businesses can understand where to begin, which authority is responsible, and which official destination controls the service. It does not replace a government agency or turn unreviewed information into law.
+
+### Worldwide country structure
+
+- 198 country destinations connect Government with BRASA World, Education, and Business.
+- Every country pack uses twelve practical categories for public services and civic information.
+- Records are designed to retain jurisdiction, responsible authority, official source, effective date, reviewer, and verification status.
+- Government forms and official links remain Government-owned; BRASA Business discovers and uses them without independently approving government requirements.
+- Costa Rica is the reference implementation for deeper governed citizen journeys. Other country packs must pass their own source and professional review before equivalent production claims are made.
+
+### Government knowledge and financial access
+
+BRASA Financials catalogs 385 distinct payment systems across 161 country or multi-country market descriptions and 216 payment types, including mobile money, instant transfers, QR, wallets, cash networks, remittance, open banking, domestic card systems, and USSD.
+
+The directory does not authorize providers. Each method must pass official-source, country-availability, licensing, integration, settlement, and production review. Licensed providers move the money; BRASA connects eligible options to receipts, reconciliation, the open ledger, and the relevant country context.
+
+This boundary matters: Government remains the governed source for public requirements, while Education and Business help citizens understand and act on them.
+<!-- BRASA-PLATFORM-UPDATE:END -->
 *Se Sitwayen Monn Ki Posede Li — Konstwi ak Lanmou nan Kosta Rika · 2026*
